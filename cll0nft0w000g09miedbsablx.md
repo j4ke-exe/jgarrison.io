@@ -152,7 +152,7 @@ From here we can use `WES` to find a privesc vector (update database before runn
 
 This build of Windows 10 is vulnerable to a `Windows COM` privesc, `CVE-2017-0213`. There's a binary that we can use to automate this exploit for us. Let's download it to our attack box and upload it to our victim. Link to binary here: [https://github.com/WindowsExploits/Exploits/tree/master/CVE-2017-0213](https://github.com/WindowsExploits/Exploits/tree/master/CVE-2017-0213)
 
-Once we get it on our victim box we can run it and then move over to our RDP session and find a new CMD shell spawned `NT AUTHORITY\SYSTEM` rights.
+Once we get it on our victim box we can run it and then move over to our RDP session and find a new CMD shell spawned with `NT AUTHORITY\SYSTEM` rights.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691399172768/3d8491c3-f96f-4d6b-912d-db3096f8356b.png align="center")
 
