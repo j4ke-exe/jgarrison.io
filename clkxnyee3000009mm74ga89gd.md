@@ -4,7 +4,7 @@ datePublished: Sat Aug 05 2023 06:58:32 GMT+0000 (Coordinated Universal Time)
 cuid: clkxnyee3000009mm74ga89gd
 slug: traverse
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691217000321/22442b2d-c5be-4f52-8746-a5237f5c7c61.png
-tags: ctf, penetration-testing, ethical-hacking, tryhackme, ctf-writeup
+tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
