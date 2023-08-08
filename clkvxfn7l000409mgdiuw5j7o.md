@@ -4,7 +4,7 @@ datePublished: Fri Aug 04 2023 01:48:21 GMT+0000 (Coordinated Universal Time)
 cuid: clkvxfn7l000409mgdiuw5j7o
 slug: steel-mountain
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691113329633/802d3395-f54a-493a-aa19-5109f6535e05.png
-tags: ctf, cybersecurity-1, ethical-hacking, tryhackme, ctf-writeup
+tags: ctf, 2articles1week, cybersecurity-1, tryhackme, ctf-writeup
 
 ---
 
