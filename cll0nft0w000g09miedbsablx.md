@@ -4,7 +4,7 @@ datePublished: Mon Aug 07 2023 09:07:23 GMT+0000 (Coordinated Universal Time)
 cuid: cll0nft0w000g09miedbsablx
 slug: retro-ctf
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691398073255/32544658-38cb-46d5-855b-da5355a74db6.png
-tags: ctf, penetration-testing, ethical-hacking, tryhackme, ctf-writeup
+tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
