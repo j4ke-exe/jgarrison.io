@@ -4,7 +4,7 @@ datePublished: Fri Aug 04 2023 01:04:02 GMT+0000 (Coordinated Universal Time)
 cuid: clkvvunkk00010ame8969bdz7
 slug: pickle-rick
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691110438801/ac6f8b94-ee24-40b3-952d-21cd7b0d67ac.jpeg
-tags: ctf, ethical-hacking, tryhackme, ctf-writeup, webpentesting
+tags: ctf, 2articles1week, tryhackme, ctf-writeup, webpentesting
 
 ---
 
