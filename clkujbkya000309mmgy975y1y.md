@@ -4,7 +4,7 @@ datePublished: Thu Aug 03 2023 02:25:31 GMT+0000 (Coordinated Universal Time)
 cuid: clkujbkya000309mmgy975y1y
 slug: my-journey-in-cybersecurity-up-to-now
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/d6fec7297db10585bb649f978d3e5a62.jpeg
-tags: computer-science, ctf, cybersecurity-1, ethicalhacking, offensive-security
+tags: computer-science, ctf, 2articles1week, cybersecurity-1, offensive-security
 
 ---
 
