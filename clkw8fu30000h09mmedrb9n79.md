@@ -4,7 +4,7 @@ datePublished: Fri Aug 04 2023 06:56:26 GMT+0000 (Coordinated Universal Time)
 cuid: clkw8fu30000h09mmedrb9n79
 slug: gme-tracker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691132113525/f4948156-0593-47b6-b77b-678baf6a4a6d.jpeg
-tags: python, stockmarket, technical-analysis, gme, gamestop
+tags: python, 2articles1week, technical-analysis, gme, gamestop
 
 ---
 
