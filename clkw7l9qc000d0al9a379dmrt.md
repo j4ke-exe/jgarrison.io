@@ -4,7 +4,7 @@ datePublished: Fri Aug 04 2023 06:32:40 GMT+0000 (Coordinated Universal Time)
 cuid: clkw7l9qc000d0al9a379dmrt
 slug: 0day-ctf
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691130300453/ff40d154-8dc6-405e-a8dd-76ed9652bd86.png
-tags: ctf, penetration-testing, ethical-hacking, tryhackme, ctf-writeup
+tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
