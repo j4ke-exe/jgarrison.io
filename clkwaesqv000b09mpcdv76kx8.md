@@ -3,7 +3,7 @@ title: "Olympus"
 datePublished: Fri Aug 04 2023 07:51:36 GMT+0000 (Coordinated Universal Time)
 cuid: clkwaesqv000b09mpcdv76kx8
 slug: olympus
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691135152580/3cb598d3-32e8-4fe1-be65-c5fc7905ad52.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691590174541/3494c3a3-8281-4db5-bbd8-73a293435830.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
