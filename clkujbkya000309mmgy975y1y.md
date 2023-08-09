@@ -3,14 +3,12 @@ title: "My Journey in Cybersecurity Up to Now"
 datePublished: Thu Aug 03 2023 02:25:31 GMT+0000 (Coordinated Universal Time)
 cuid: clkujbkya000309mmgy975y1y
 slug: my-journey-in-cybersecurity-up-to-now
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/d6fec7297db10585bb649f978d3e5a62.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/p0j-mE6mGo4/upload/b0e960f4b3bd89fa8e161f995f79c4be.jpeg
 tags: computer-science, ctf, 2articles1week, cybersecurity-1, offensive-security
 
 ---
 
 ### Mindset
-
----
 
 > "Those who work the hardest usually complain the least." -Ryan Cohen
 
@@ -18,13 +16,9 @@ My journey in cybersecurity up to this point has been incredibly rewarding. Init
 
 ### Capture the Flag (CTF)
 
----
-
 As a beginner with no background in Information Security or Information Technology, I recommend joining platforms like TryHackMe, Hack The Box, and PicoCTF. These environments provide a wealth of educational content that will help you build on fundamental concepts and progress to more intermediate and advanced topics. When I first entered this industry, I started with TryHackMe and soon pursued the Certified Ethical Hacker (CEH) certification from EC-Council after developing a passion for it. CTF platforms are both challenging and rewarding, designed to encourage critical thinking and outside-the-box problem-solving in order to capture flags and *pwn* boxes.
 
 ### Where I Currently Stand
-
----
 
 I am currently enrolled in a university, pursuing a degree in Computer Science with a focus on Cybersecurity Engineering. As of writing this blog, I still haven't completed my homework assignment due tomorrow night, even though I know I will be struggling. I find it more exciting to write, learn, and practice by completing CTF challenges. In addition to this, I am also enrolled in the Practical Junior Penetration Tester (PJPT) certification path by TCM Security. I just wish someone could throw a book at me on offensive security, and I would instantly know everything! However, the reality is that I struggle to stay on track, and, combined with my ADHD, learning and completing tasks one at a time becomes extremely difficult. But this is where I am, trying to learn as much as I can, as quickly as I can, because I am eager to improve.
 
