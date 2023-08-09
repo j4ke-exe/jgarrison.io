@@ -1,6 +1,5 @@
 ---
 title: "Kenobi"
-seoDescription: "This walkthrough will go over the Kenobi CTF found on TryHackMe. This room will cover accessing a Samba share, manipulating a vulnerable version of ProFtpd"
 datePublished: Wed Aug 09 2023 13:04:38 GMT+0000 (Coordinated Universal Time)
 cuid: cll3qslwi000709jt53avfztj
 slug: kenobi
