@@ -1,9 +1,10 @@
 ---
 title: "Retro CTF"
+seoDescription: "This walkthrough will go over the Retro room found on TryHackMe. The objective behind this room is to use a bit of passive recon to find a set of credential"
 datePublished: Mon Aug 07 2023 09:07:23 GMT+0000 (Coordinated Universal Time)
 cuid: cll0nft0w000g09miedbsablx
 slug: retro-ctf
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691398073255/32544658-38cb-46d5-855b-da5355a74db6.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691588234525/d53e0475-4823-4733-a056-ffc59eb73815.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
