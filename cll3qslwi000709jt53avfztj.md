@@ -4,7 +4,7 @@ seoDescription: "This walkthrough will go over the Kenobi CTF found on TryHackMe
 datePublished: Wed Aug 09 2023 13:04:38 GMT+0000 (Coordinated Universal Time)
 cuid: cll3qslwi000709jt53avfztj
 slug: kenobi
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691585908010/9535ea48-375f-4419-bd1e-d18345d394d7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691586376933/6b5913c3-6dd3-4f6b-b2cd-4bfbdb0b2ac2.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
