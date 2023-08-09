@@ -1,6 +1,5 @@
 ---
 title: "Retro CTF"
-seoDescription: "This walkthrough will go over the Retro room found on TryHackMe. The objective behind this room is to use a bit of passive recon to find a set of credential"
 datePublished: Mon Aug 07 2023 09:07:23 GMT+0000 (Coordinated Universal Time)
 cuid: cll0nft0w000g09miedbsablx
 slug: retro-ctf
