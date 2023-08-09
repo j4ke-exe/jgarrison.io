@@ -1,9 +1,10 @@
 ---
 title: "Cat Pictures 2"
+seoDescription: "This walkthrough will go over the Cat Pictures 2 CTF found on TryHackMe. The objective of this box is to find a vulnerability in the web application and lev"
 datePublished: Tue Aug 08 2023 11:17:30 GMT+0000 (Coordinated Universal Time)
 cuid: cll27iz4y001209jo8pno7g8z
 slug: cat-pictures-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691493060023/fc5016ab-b8cb-44ab-92bc-241489834293.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691586742201/ffde56d0-951a-4988-bdba-c5fe3577929c.png
 tags: ctf, 2articles1week, ethical-hacking, tryhackme, ctf-writeup
 
 ---
