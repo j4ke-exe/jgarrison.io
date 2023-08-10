@@ -1,5 +1,5 @@
 ---
-title: "Olympus"
+title: "Conquer Olympus Using SQL Injection and Claim the Throne in this CTF Found on TryHackMe"
 datePublished: Fri Aug 04 2023 07:51:36 GMT+0000 (Coordinated Universal Time)
 cuid: clkwaesqv000b09mpcdv76kx8
 slug: olympus
@@ -8,7 +8,7 @@ tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
-This walkthrough will go over the [Olympus](https://tryhackme.com/room/olympusroom) CTF found on [TryHackMe](https://tryhackme.com/). The objective of this box is to leverage an SQLi vulnerability found in a CMS, use `sqlmap` to obtain user credentials by dumping a database, enumerating a subdomain that is hosting a chat application, uploading a reverse shell to gain a foothold on the box, and utilizing a mismanaged SUID binary to elevate privileges.
+This walkthrough covers the [Olympus](https://tryhackme.com/room/olympusroom) CTF found on [TryHackMe](https://tryhackme.com/). The goal of this challenge is to exploit an SQLi vulnerability in a CMS, use sqlmap to acquire user credentials by extracting a database, identify a subdomain hosting a chat application, upload a reverse shell to establish a foothold on the system and take advantage of a poorly managed SUID binary to escalate privileges.
 
 ### Step 1: What's Out There?
 
@@ -26,7 +26,7 @@ ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt:FUZZ -u h
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691135218898/f1601161-af87-4569-8bec-af42899fc8e0.webp align="center")
 
-We identified a directory called `~webmaster`. This is where the CMS is housed.
+We discovered a directory named `~webmaster`, which is where the CMS is located.
 
 ### Step 3: SQLi
 
