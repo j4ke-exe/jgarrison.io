@@ -1,5 +1,5 @@
 ---
-title: "Cat Pictures 2"
+title: "Meow! Enjoy Cat Pictures? If Not, Then You Will After Leveraging One to Obtain Root"
 datePublished: Tue Aug 08 2023 11:17:30 GMT+0000 (Coordinated Universal Time)
 cuid: cll27iz4y001209jo8pno7g8z
 slug: cat-pictures-2
@@ -8,7 +8,7 @@ tags: ctf, 2articles1week, ethical-hacking, tryhackme, ctf-writeup
 
 ---
 
-This walkthrough will go over the [Cat Pictures 2](https://tryhackme.com/room/catpictures2) CTF found on [TryHackMe](https://tryhackme.com/). The objective of this box is to find a vulnerability in the web application and leverage it to gain an initial foothold. The end goal is to perform a privilege escalation and gain root.
+This walkthrough covers the [Cat Pictures 2](https://tryhackme.com/room/catpictures2) CTF found on [TryHackMe](https://tryhackme.com/). The objective of this challenge is to identify a vulnerability in the web application and exploit it to gain an initial foothold. The ultimate goal is to perform a privilege escalation and obtain root access.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691493087000/edb8127b-a214-47a3-9098-bb4d43ab0a56.png align="center")
 
