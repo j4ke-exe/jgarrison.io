@@ -1,5 +1,5 @@
 ---
-title: "0day CTF"
+title: "Exploit Shellshock Vulnerability for Root Privilege Escalation in TryHackMe's 0day CTF"
 datePublished: Fri Aug 04 2023 06:32:40 GMT+0000 (Coordinated Universal Time)
 cuid: clkw7l9qc000d0al9a379dmrt
 slug: 0day-ctf
@@ -8,7 +8,7 @@ tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
-This walkthrough will go over the [0day](https://tryhackme.com/room/0day) CTF found on [TryHackMe](https://tryhackme.com). You will be introduced to the shellshock vulnerability that exists in Linux Kernels 3.13.0 &lt; 3.19 (Ubuntu 12.04/14.04/14.10/15.04).
+This walkthrough will cover the [0day](https://tryhackme.com/room/0day) CTF found on [TryHackMe](https://tryhackme.com). You will be introduced to the Shellshock vulnerability, which exists in Linux Kernels 3.13.0 to 3.19 (Ubuntu 12.04/14.04/14.10/15.04).
 
 ### Step 1: Nmap
 
