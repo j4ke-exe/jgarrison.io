@@ -3,7 +3,7 @@ title: "0day CTF"
 datePublished: Fri Aug 04 2023 06:32:40 GMT+0000 (Coordinated Universal Time)
 cuid: clkw7l9qc000d0al9a379dmrt
 slug: 0day-ctf
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691631189798/ed921cd4-42aa-49d7-9d81-45879213c2c3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691631259141/abcaf71f-fe92-4a1e-915a-00aeab83e149.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
