@@ -1,8 +1,8 @@
 ---
-title: "GME Tracker"
+title: "Can't Stop, Won't Stop, GME Tracker"
 datePublished: Fri Aug 04 2023 06:56:26 GMT+0000 (Coordinated Universal Time)
 cuid: clkw8fu30000h09mmedrb9n79
-slug: gme-tracker
+slug: cant-stop-wont-stop-gme-tracker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691631737836/acf1b9ca-0f49-45e9-a935-2a3a47226281.png
 tags: python, 2articles1week, technical-analysis, gme, gamestop
 
