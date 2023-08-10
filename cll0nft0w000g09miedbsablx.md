@@ -3,7 +3,7 @@ title: "Retro CTF"
 datePublished: Mon Aug 07 2023 09:07:23 GMT+0000 (Coordinated Universal Time)
 cuid: cll0nft0w000g09miedbsablx
 slug: retro-ctf
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691627188870/2a66ebc1-6c64-4b17-acf1-62a3cca17df6.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691628975541/bb69cecb-3aa6-42f7-91c9-cd1a3c23b6e5.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
