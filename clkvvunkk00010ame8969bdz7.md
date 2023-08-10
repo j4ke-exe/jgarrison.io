@@ -2,7 +2,7 @@
 title: "Dive Into the Pickle Rick CTF from TryHackMe"
 datePublished: Fri Aug 04 2023 01:04:02 GMT+0000 (Coordinated Universal Time)
 cuid: clkvvunkk00010ame8969bdz7
-slug: dive-into-the-pickle-rick-ctf-from-tryhackme
+slug: pickle-rick
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691630563799/dd9bf166-c2e8-4902-9bd7-add73f594b8d.png
 tags: ctf, 2articles1week, tryhackme, ctf-writeup, webpentesting
 
