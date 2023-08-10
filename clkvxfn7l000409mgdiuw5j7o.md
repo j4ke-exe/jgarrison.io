@@ -1,14 +1,14 @@
 ---
-title: "Steel Mountain"
+title: "Exploit a Rejetto HTTP File Server in Steel Mountain CTF from TryHackMe"
 datePublished: Fri Aug 04 2023 01:48:21 GMT+0000 (Coordinated Universal Time)
 cuid: clkvxfn7l000409mgdiuw5j7o
-slug: steel-mountain
+slug: exploit-a-rejetto-http-file-server-in-steel-mountain-ctf-from-tryhackme
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691631388854/ef6dc52d-c862-4a1e-8a9e-ed0ee93fe8b3.png
 tags: ctf, 2articles1week, cybersecurity-1, tryhackme, ctf-writeup
 
 ---
 
-This walkthrough will go over the [Steel Mountain](https://tryhackme.com/room/steelmountain) CTF found on [TryHackMe](https://tryhackme.com). This room is designed to test our Windows OS enumeration skills. We will use Metasploit to gain an initial foothold and then use PowerShell to enumerate the machine and escalate our privileges to Administrator.
+This walkthrough covers the [Steel Mountain](https://tryhackme.com/room/steelmountain) CTF found on [TryHackMe](https://tryhackme.com). This room is designed to evaluate our Windows OS enumeration skills. We will utilize Metasploit to gain an initial foothold, followed by PowerShell to enumerate the machine and escalate our privileges to Administrator.
 
 ### Step 1: Nmap
 
