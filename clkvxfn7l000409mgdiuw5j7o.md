@@ -2,7 +2,7 @@
 title: "Exploit a Rejetto HTTP File Server in Steel Mountain CTF from TryHackMe"
 datePublished: Fri Aug 04 2023 01:48:21 GMT+0000 (Coordinated Universal Time)
 cuid: clkvxfn7l000409mgdiuw5j7o
-slug: exploit-a-rejetto-http-file-server-in-steel-mountain-ctf-from-tryhackme
+slug: steel-mountain
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691631388854/ef6dc52d-c862-4a1e-8a9e-ed0ee93fe8b3.png
 tags: ctf, 2articles1week, cybersecurity-1, tryhackme, ctf-writeup
 
