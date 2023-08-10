@@ -1,5 +1,5 @@
 ---
-title: "Kenobi"
+title: "Help Me, Obi-Wan Kenobi. You're My Only Hope: Navigating the Kenobi CTF on TryHackMe"
 datePublished: Wed Aug 09 2023 13:04:38 GMT+0000 (Coordinated Universal Time)
 cuid: cll3qslwi000709jt53avfztj
 slug: kenobi
@@ -8,7 +8,7 @@ tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
 
-This walkthrough will go over the [Kenobi](https://tryhackme.com/room/kenobi) CTF found on [TryHackMe](https://tryhackme.com). This room will cover accessing a Samba share, manipulating a vulnerable version of ProFtpd to gain initial access, and escalating privileges to root via a SUID binary.
+This walkthrough will cover the [Kenobi](https://tryhackme.com/room/kenobi) CTF found on [TryHackMe](https://tryhackme.com). It will include accessing a Samba share, exploiting a vulnerable version of ProFtpd to gain initial access, and escalating privileges to root using a SUID binary.
 
 ### Step 1: Nmap
 
