@@ -3,7 +3,7 @@ title: "Traverse"
 datePublished: Sat Aug 05 2023 06:58:32 GMT+0000 (Coordinated Universal Time)
 cuid: clkxnyee3000009mm74ga89gd
 slug: traverse
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691628296024/3c584663-b91d-4e0a-8f63-99d5e9366651.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691628373658/0de55d3e-f650-44ab-a289-bc94bc06fa50.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
