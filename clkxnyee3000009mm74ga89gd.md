@@ -1,5 +1,5 @@
 ---
-title: "Traverse"
+title: "Traverse TryHackMe CTF: Exploit Weak API Security for Privileged Access"
 datePublished: Sat Aug 05 2023 06:58:32 GMT+0000 (Coordinated Universal Time)
 cuid: clkxnyee3000009mm74ga89gd
 slug: traverse
