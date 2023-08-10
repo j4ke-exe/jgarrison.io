@@ -3,7 +3,7 @@ title: "Alfred"
 datePublished: Sun Aug 06 2023 06:10:18 GMT+0000 (Coordinated Universal Time)
 cuid: clkz1o7n0000c0aky82kx74kw
 slug: alfred
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691589674162/afecd4e2-73df-4f79-ad6e-5a10e74bd4a4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691626028233/7941dfd0-5aa7-495d-b1d1-fd7cc95eae89.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
 ---
