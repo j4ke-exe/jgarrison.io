@@ -1,5 +1,5 @@
 ---
-title: "Retro CTF"
+title: "Drive Off into the Sunset After You Exploit this CVE-2017-0213 Vulnerable Box in Retro CTF"
 datePublished: Mon Aug 07 2023 09:07:23 GMT+0000 (Coordinated Universal Time)
 cuid: cll0nft0w000g09miedbsablx
 slug: retro-ctf
