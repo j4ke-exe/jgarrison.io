@@ -1,5 +1,5 @@
 ---
-title: "Alfred"
+title: "Alfred Can't Stop this SeImpersonatePrivilege Vulnerability"
 datePublished: Sun Aug 06 2023 06:10:18 GMT+0000 (Coordinated Universal Time)
 cuid: clkz1o7n0000c0aky82kx74kw
 slug: alfred
