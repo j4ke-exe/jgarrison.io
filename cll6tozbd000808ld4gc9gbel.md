@@ -2,7 +2,7 @@
 title: "Ice, Ice, Mimi: Unleashing Metasploit and Mimikatz on an Icecast Media Server"
 datePublished: Fri Aug 11 2023 16:49:06 GMT+0000 (Coordinated Universal Time)
 cuid: cll6tozbd000808ld4gc9gbel
-slug: ice-ice-mimi-unleashing-metasploit-and-mimikatz-on-an-icecast-media-server
+slug: ice-ctf
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691769610100/d3d1cc10-3a1f-48ff-aefc-fc86b4bec455.png
 tags: ctf, penetration-testing, 2articles1week, tryhackme, ctf-writeup
 
