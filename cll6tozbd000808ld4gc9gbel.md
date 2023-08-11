@@ -196,6 +196,6 @@ After loading Kiwi, we receive an expanded help menu.
 
 Running the `creds_all` command will retrieve all credentials and display some passwords for us.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691771362870/db1e5881-268d-49da-8ddd-593debdd9101.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691772805082/6f35fa64-c02d-443b-bda1-36211ea7da6e.jpeg align="center")
 
 And that's it! We gained a foothold using an exploit module from the Metasploit framework, utilized LES to identify a vulnerability to exploit in the x64 architecture, deployed the `bypassuac_eventvwr` module to elevate privileges, and finally, we used Mimikatz as `NT AUTHORITY\SYSTEM` to dump credentials from the Windows machine.
