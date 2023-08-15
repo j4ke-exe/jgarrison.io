@@ -149,7 +149,7 @@ for i in {1..65535}; do (echo > /dev/tcp/10.200.105.1/$i) >/dev/null 2>&1 && ech
 
 In addition to executing these scripts, we can upload a `Netcat` binary to perform the same tasks, potentially achieving better results. From here, we need to upload a static binary, which can be downloaded from this repo: [https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86\_64/nmap?raw=true](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/nmap?raw=true)
 
-Steps to upload the binary to the target (`prod-serv)`:
+Steps to upload the binary to the target (`prod-serv`):
 
 1. Host Python server from our attack box:
     
@@ -224,7 +224,11 @@ Going to [`http://10.200.105.150/gitstack`](http://10.200.105.150/gitstack) bri
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691910317669/a2d6f6be-4e44-44cf-b689-18b59dfbc3b2.png align="center")
 
-Looking for `gitstack` on `searchsploit` reveals an RCE for this service: `searchsploit gitstack`.
+Looking for `gitstack` on `searchsploit` reveals an RCE for this service: 
+
+```bash
+searchsploit gitstack
+```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691910333574/44c794a6-94c0-4220-b954-c4e79b469391.png align="center")
 
@@ -998,7 +1002,7 @@ Return to `Empire` and confirm that we have received the new `Agent`.
 
 ## Enumerate GitServer
 
-Perfect, we have established a connection with GitServer. We need to enumerate, but we cannot use Nmap since installing it would trigger the anti-virus. We also can't run a scan through the proxy because we are tunneled through two of them. Therefore, we need to examine Empire and determine which modules are available for us to use. After all, they are PowerShell scripts, and we have PowerShell capability on GitServer. However, as a proof of concept, we will upload a `Netcat` binary via `Evil-WinRM`.
+Perfect, we have established a connection with GitServer. We need to enumerate, but we cannot use `Nmap` since installing it would trigger the anti-virus. We also can't run a scan through the proxy because we are tunneled through two of them. Therefore, we need to examine `Empire` and determine which modules are available for us to use. After all, they are PowerShell scripts, and we have PowerShell capability on GitServer. However, as a proof of concept, we will upload a `Netcat` binary via `Evil-WinRM`.
 
 From `Evil-WinRM`:
 
@@ -1104,7 +1108,7 @@ Wappalyzer Results:
 
 It's time to compare the development site with the live production site. We will download the `.git` repository from the `git-serv` and reassemble it on our attack machine for analysis.
 
-Locate of `.git` repository:
+Location of `.git` repository:
 
 ```bash
 C:\GitStack\repositories\Website.git
@@ -1167,7 +1171,7 @@ Change Directory:
 cd 1-345ac8b236064b431fa43f53d91c98c4834ef8f3
 ```
 
-Let's look for a PHP file:
+Look for a PHP file:
 
 ```bash
 find . -name "*.php"
@@ -1458,7 +1462,7 @@ Perfect, we have full control of this directory.
 
 ### Privesc and Root
 
-Considering that we already have Netcat on the machine, all we need to do is create a simple wrapper program that will execute Netcat as `NT AUTHORITY\SYSTEM` and connect back to our listener. We will disguise it as System.exe to exploit the unquoted service path vulnerability found in `SystemExplorerHelpService`.
+Considering that we already have Netcat on the machine, all we need to do is create a simple wrapper program that will execute Netcat as `NT AUTHORITY\SYSTEM` and connect back to our listener. We will disguise it as `System.exe` to exploit the unquoted service path vulnerability found in `SystemExplorerHelpService`.
 
 Install the compiler `mono`:
 
@@ -1472,7 +1476,7 @@ Open a file called `Wrapper.cs`:
 gedit Wrapper.cs
 ```
 
-First, we want to add our imports in order to utilize code from other namespaces, which will provide us with some basic functions.
+Add the necessary imports to make use of code from other namespaces, which will grant us access to essential functions.
 
 ```csharp
 using System;
@@ -1525,7 +1529,7 @@ namespace Wrapper {
 }
 ```
 
-Now, we can compile our program using the Mono mcs compiler by executing the following command:
+Now, we can compile our program using the `Mono mcs` compiler by executing the following command:
 
 ```bash
 mcs Wrapper.cs
