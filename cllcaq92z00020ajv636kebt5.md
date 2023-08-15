@@ -8,7 +8,7 @@ tags: ctf, penetration-testing, 2articles1week, tryhackme, ethicalhacking
 
 ---
 
-This is a straightforward boot-to-root walkthrough of the Wgel CTF found on TryHackMe. The objective of this room is to perform active reconnaissance on a web server, obtain credentials, and log in using an exposed SSH key. The final step involves elevating to root by employing a privilege escalation technique with the `wget` binary.
+This is a straightforward boot-to-root walkthrough of the [Wgel](https://tryhackme.com/room/wgelctf) CTF found on [TryHackMe](https://tryhackme.com). The objective of this room is to perform active reconnaissance on a web server, obtain credentials, and log in using an exposed SSH key. The final step involves elevating to root by employing a privilege escalation technique with the `wget` binary.
 
 ### Step 1: What's Out There?
 
