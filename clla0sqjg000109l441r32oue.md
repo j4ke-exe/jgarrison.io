@@ -86,7 +86,7 @@ After exploring the website, we discovered a potentially useful phone number: `4
 
 After performing a "`Google-fu`" search using terms related to `MiniServ 1.890` running on `Port 10000`, we discovered an exploit that allows us to achieve Remote Code Execution (RCE) on the server.
 
-We can utilize the "`WebMin 1.890-expired-remote-roo`t" exploit found in this GitHub repository: [https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE](https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE)
+We can utilize the "`WebMin 1.890-expired-remote-root`" exploit found in this GitHub repository: [https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE](https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE)
 
 ```bash
 git clone https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE.git
