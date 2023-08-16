@@ -26,7 +26,7 @@ Without further ado, let's get started.
 
 ## Webserver Enumeration
 
-As with any penetration test, we aim to begin by conducting a network scan against our target. Our objective is to determine which services are running, and we hope to identify a potential vulnerability in either the service version or a web server operating with inadequate security measures in place.
+As with any penetration test, we need to perform a network scan against our target. Our objective is to determine which services are running, and we hope to identify a potential vulnerability in either the service version or a web server operating with weak security controls.
 
 ```bash
 nmap -sC -sV -Pn -p- wreath.thm --min-rate=1000
@@ -224,7 +224,7 @@ Going to [`http://10.200.105.150/gitstack`](http://10.200.105.150/gitstack) bri
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691910317669/a2d6f6be-4e44-44cf-b689-18b59dfbc3b2.png align="center")
 
-Looking for `gitstack` on `searchsploit` reveals an RCE for this service: 
+Looking for `gitstack` on `searchsploit` reveals an RCE for this service:
 
 ```bash
 searchsploit gitstack
