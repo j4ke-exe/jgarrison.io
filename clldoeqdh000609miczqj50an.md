@@ -80,4 +80,4 @@ Now that we have obtained `missy's` account password, we can switch users and re
 
 ### Summary
 
-> In this walkthrough, we explore the Linux Privilege Escalation Capstone on TryHackMe, aiming to escalate our privileges to root. We begin by checking for exploitable cron jobs and identifying binaries with sudo privileges. We exploit the base64 binary to obtain the root flag and use unshadow and John-the-Ripper to crack passwords and retrieve the final flag from a missy's Documents folder.
+> In this walkthrough, we explore the Linux Privilege Escalation Capstone on TryHackMe, aiming to escalate our privileges to root. We begin by checking for exploitable cron jobs and identifying binaries with sudo privileges. We exploit the base64 binary to obtain the root flag and use unshadow and John-the-Ripper to crack passwords and retrieve the final flag from missy's Documents folder.
