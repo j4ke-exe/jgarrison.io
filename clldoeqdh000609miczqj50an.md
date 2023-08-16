@@ -8,7 +8,7 @@ tags: hacking, ctf, penetration-testing, 2articles1week, ethicalhacking
 
 ---
 
-This walkthrough will go over the [Linux Privilege Escalation Capstone](https://tryhackme.com/room/linprivesc) found on [TryHackMe](https://tryhackme.com/). The objective is to assess your understanding gained from the prior course content by situating you in an internal environment where you already possess low-level privileges on a Linux server. Your task is to identify an attack vector that enables you to escalate your privileges to root.
+This walkthrough will go over the [Linux Privilege Escalation Capstone](https://tryhackme.com/room/linprivesc) found on [TryHackMe](https://tryhackme.com/). The objective is to assess your understanding gained from the prior course content by placing you in an internal environment where you already possess low-level privileges on a Linux server. Your task is to identify an attack vector that enables you to escalate your privileges to root.
 
 ### Ready, set, go!
 
