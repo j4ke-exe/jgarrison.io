@@ -2,7 +2,7 @@
 title: "TryHackMe Linux Privesc Capstone: A Quick Internal Pentest to Gain Root"
 datePublished: Wed Aug 16 2023 11:55:33 GMT+0000 (Coordinated Universal Time)
 cuid: clldoeqdh000609miczqj50an
-slug: tryhackme-linux-privesc-capstone-a-quick-internal-pentest-to-gain-root
+slug: linux-privesc-capstone
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692185506075/efdf958c-8af9-4652-8fcb-5e17b68b4576.png
 tags: hacking, ctf, penetration-testing, 2articles1week, ethicalhacking
 
