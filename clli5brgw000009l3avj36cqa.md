@@ -4,6 +4,7 @@ datePublished: Sat Aug 19 2023 15:00:13 GMT+0000 (Coordinated Universal Time)
 cuid: clli5brgw000009l3avj36cqa
 slug: windows-persistent-access
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692399963800/fa74dd56-24b0-41b7-af77-a7fd8b7f9f7b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692472812586/bbe3228b-088f-4312-a474-32f4cf891e99.png
 tags: learning, windows, hacking, hashnode, 2articles1week
 
 ---
