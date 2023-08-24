@@ -22,6 +22,8 @@ This article serves as a living document, which I will continually update with t
 
 `rustscan:` [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
 
+`autorecon:` [https://github.com/Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon)
+
 ### 🖥 Enumerate Samba
 
 `enum4linux:` [https://github.com/CiscoCXSecurity/enum4linux](https://github.com/CiscoCXSecurity/enum4linux)
