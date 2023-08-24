@@ -190,16 +190,16 @@ This article serves as a living document, which I will continually update with t
 
 ### 🧩 Browser Extensions
 
-`builtwith:` [https://addons.mozilla.org/en-US/firefox/addon/builtwith/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/builtwith/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+`builtwith:`[https://addons.mozilla.org/en-US/firefox/addon/builtwith/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/builtwith/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-`cookie-editor:` [https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+`cookie-editor:`[https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-`dotgit:` [https://addons.mozilla.org/en-US/firefox/addon/dotgit/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/dotgit/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+`dotgit:`[https://addons.mozilla.org/en-US/firefox/addon/dotgit/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/dotgit/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-`foxyproxy:` [https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+`foxyproxy:`[https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-`hack-tools:` [https://addons.mozilla.org/en-US/firefox/addon/hacktools/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/hacktools/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+`hack-tools:`[https://addons.mozilla.org/en-US/firefox/addon/hacktools/?utm\_source=addons.mozilla.org&utm\_medium=referral&utm\_content=search](https://addons.mozilla.org/en-US/firefox/addon/hacktools/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-`wappalyzer:` [https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+`wappalyzer:`[https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
-*Current as of 24 August 2023*
+> *Current as of 24 August 2023*
