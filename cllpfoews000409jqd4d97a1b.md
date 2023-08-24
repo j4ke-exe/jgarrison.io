@@ -144,6 +144,8 @@ This article serves as a living document, which I will continually update with t
 
 `sharphound:` [https://github.com/BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound)
 
+`adpeas:` [https://github.com/61106960/adPEAS](https://github.com/61106960/adPEAS)
+
 `powersploit:` [https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 
 `psmapexec:` [https://github.com/The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec)
