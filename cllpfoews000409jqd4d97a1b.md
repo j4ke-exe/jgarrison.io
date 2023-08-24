@@ -150,6 +150,8 @@ This article serves as a living document, which I will continually update with t
 
 `crackmapexec:` [https://github.com/mpgn/CrackMapExec](https://github.com/mpgn/CrackMapExec)
 
+`kerbrute:` [https://github.com/ropnop/kerbrute](https://github.com/ropnop/kerbrute)
+
 `rubeus:` [https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
 
 `impacket:` [https://github.com/fortra/impacket](https://github.com/fortra/impacket)
