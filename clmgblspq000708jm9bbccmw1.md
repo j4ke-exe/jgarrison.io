@@ -29,8 +29,6 @@ This new learning path by TryHackMe does a fantastic job of explaining complex c
 
 First and foremost, you can expect 40 hours of content to help jumpstart your career in Security Engineering, and that's just the tip of the iceberg. Through this course, you will be introduced to Cryptography and be able to explain the differences between symmetric and asymmetric encryption. You will learn how to identify the SHA256 checksum of a given file using a variety of HMAC (Hash-based Message Authentication Code) tools. Furthermore, you will be able to harden your web applications by applying the lessons learned from three OWASP (Open Web Application Security Project) rooms covering security concepts for secure API development, broken access controls, and authentication failures, to name just a few of the many topics.
 
-![FreeScan OWASP Audit](https://www.esds.co.in/blog/wp-content/uploads/2019/05/cyber-attack-gif.gif align="center")
-
 Beyond securing systems, you will also gain an understanding of Incident Response and Management. This aspect of security is crucial for any organization, and by learning it now, you will not only set yourself and your future employer up for success but also distinguish yourself from your peers.
 
 ### Why Is This Learning Path Beneficial?
